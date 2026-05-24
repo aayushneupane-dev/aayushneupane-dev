@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Aayush Neupane
 
-### 💻 Frontend Developer | 📊 Data Science Enthusiast | 🎨 UI/UX Creator
+### 💻 Frontend Developer | 📊Tech  Enthusiast | 🎨 UI/UX Creator
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+beautiful+web+interfaces;Analyzing+data+for+insights;Creating+interactive+visualizations;Turning+ideas+into+reality)](https://git.io/typing-svg)
 
