@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aayush Neupane
 
-### Frontend Developer • Backend Enthusiast • Data Science Enthusiast • UI/UX Creator
+  ### Frontend Developer • Backend Enthusiast • Data Science Enthusiast • UI/UX Creator
 
 <p align="center">
   <img
