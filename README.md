@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AayushNeupane-dot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=AayushNeupane-dot&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
   <a href="https://github.com/AayushNeupane-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/AayushNeupane-dot?label=Followers&style=social" alt="GitHub followers" />
+    <img
+      src="https://img.shields.io/github/followers/AayushNeupane-dot?label=Followers&style=social"
+      alt="GitHub followers"
+    />
   </a>
 </p>
 
@@ -20,7 +26,7 @@
   <a href="https://github.com/AayushNeupane-dot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aayush-neupane-9ab485375/?isSelfProfile=true">
+  <a href="https://www.linkedin.com/in/aayush-neupane-9ab485375/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/AayushAa11898">
@@ -84,17 +90,19 @@ const aayush = {
 ## 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass" alt="Frontend technologies" />
 </p>
 
 ## ⚙️ Backend Development
 
-<p>   <img src="https://skillicons.dev/icons?i=django,flaskapi" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask" alt="Backend technologies" />
+</p>
 
 ## 🐍 Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
 <p>
@@ -109,17 +117,18 @@ const aayush = {
 ## 🧰 Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,jupyter" alt="Development tools" />
 </p>
 
 ---
 
 # 🏆 Certifications
 
-### 🎓 Broadway Infosys
+## 🎓 Broadway Infosys
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
 ### 💻 Front End Development
@@ -153,6 +162,7 @@ Focused on:
 * Deep Learning Fundamentals
 
 </td>
+
 </tr>
 </table>
 
@@ -182,7 +192,10 @@ A web-based solution designed to improve waste management operations through a m
 <br />
 
 <a href="https://github.com/AayushNeupane-dot/Waste-Management-System-">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  <img
+    src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Waste Management System"
+  />
 </a>
 
 </td>
@@ -206,7 +219,10 @@ A machine learning project focused on predicting medical insurance costs using d
 <br />
 
 <a href="https://github.com/AayushNeupane-dot/Medical-Insurance-Cost-Prediction">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  <img
+    src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Medical Insurance Cost Prediction"
+  />
 </a>
 
 </td>
@@ -216,8 +232,23 @@ A machine learning project focused on predicting medical insurance costs using d
 
 <p align="center">
   <a href="https://github.com/AayushNeupane-dot?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+    <img
+      src="https://img.shields.io/badge/View%20All%20Repositories-2E9EF7?style=for-the-badge&logo=github&logoColor=white"
+      alt="View all repositories"
+    />
   </a>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AayushNeupane-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ---
@@ -245,12 +276,28 @@ A machine learning project focused on predicting medical insurance costs using d
 # 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/AayushNeupane-dot">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AayushNeupane-dot&theme=tokyo-night&hide_border=true&area=true"
+    alt="Aayush Neupane's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🎵 Currently Listening
+
+<p align="center">
+  <a href="https://open.spotify.com/track/3LcnMfhXLRVQMDEwVDEJFs">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AayushNeupane-dot&theme=tokyo-night&hide_border=true"
-      alt="GitHub Activity Graph"
+      src="https://img.shields.io/badge/🎵%20Aakhako%20Bato%20%E2%80%94%20B--8eight-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+      alt="Aakhako Bato by B-8eight on Spotify"
     />
   </a>
+</p>
+
+<p align="center">
+  🎧 <i>Currently listening to Aakhako Bato by B-8eight</i>
 </p>
 
 ---
@@ -270,7 +317,7 @@ A machine learning project focused on predicting medical insurance costs using d
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/aayush-neupane-9ab485375/?isSelfProfile=true">
+  <a href="https://www.linkedin.com/in/aayush-neupane-9ab485375/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -282,7 +329,7 @@ A machine learning project focused on predicting medical insurance costs using d
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="mailto:[aayushneupane822email@gmail.com](mailto:aayushneupane822email@gmail.com)">
+  <a href="mailto:aayushneupane822email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -290,27 +337,30 @@ A machine learning project focused on predicting medical insurance costs using d
 
 ---
 
+# 💭 Developer Philosophy
+
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Developer Quote"
-  />
+
+> **"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."**
+
+> — **Linus Torvalds**, creator of Linux and Git
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💭 *"Great things are built one line of code at a time."*
-
-<br />
+### 🚀 Let's build something amazing together!
 
 **Thanks for visiting my profile!** 🙌
 
 Feel free to explore my repositories, check out my projects, and connect with me.
 
-### 🚀 Let's build something amazing together!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+width="100%"
+alt="Footer"
+/>
 
 </div>
