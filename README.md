@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Building+beautiful+and+responsive+web+interfaces;Exploring+backend+and+full-stack+development;Turning+data+into+meaningful+insights;Always+learning%2C+building%2C+and+improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Building+beautiful+and+responsive+web+interfaces;Exploring+backend+and+full-stack+development;Working+with+data+and+machine+learning;Always+learning%2C+building%2C+and+improving"
     alt="Typing SVG"
   />
 </p>
@@ -30,13 +30,13 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```javascript
 const aayush = {
   location: "Kathmandu, Nepal",
 
-  role: [
+  roles: [
     "Frontend Developer",
     "Backend Enthusiast",
     "Data Science Enthusiast",
@@ -45,9 +45,9 @@ const aayush = {
 
   currentlyWorkingOn: [
     "Interactive web applications",
-    "Data-driven projects",
     "Responsive user interfaces",
-    "Full-stack development"
+    "Full-stack development",
+    "Data-driven projects"
   ],
 
   currentlyLearning: [
@@ -75,7 +75,7 @@ const aayush = {
 * 👯 Open to collaborating on **frontend, backend, full-stack, and data science projects**
 * 💬 Ask me about **React, JavaScript, Python, Web Development, Data Science, and UI/UX**
 * 📫 Reach me at **[aayushneupane822email@gmail.com](mailto:aayushneupane822email@gmail.com)**
-* ⚡ I enjoy combining **clean interfaces, powerful backend systems, and meaningful data**
+* ⚡ I enjoy combining **clean interfaces, backend systems, and meaningful data**
 
 ---
 
@@ -89,9 +89,7 @@ const aayush = {
 
 ## ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<p>   <img src="https://skillicons.dev/icons?i=django,flaskapi" /> </p>
 
 ## 🐍 Data Science & Analytics
 
@@ -100,15 +98,15 @@ const aayush = {
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-## ⚙️ Tools & Environment
+## 🧰 Tools & Environment
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,jupyter" />
@@ -128,7 +126,7 @@ const aayush = {
 
 **Institution:** Broadway Infosys
 
-Focused on modern frontend development, including:
+Focused on:
 
 * HTML5 & CSS3
 * JavaScript ES6+
@@ -164,6 +162,7 @@ Focused on:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## ♻️ Waste Management System
@@ -211,12 +210,13 @@ A machine learning project focused on predicting medical insurance costs using d
 </a>
 
 </td>
+
 </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/AayushNeupane-dot?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
 </p>
 
@@ -226,32 +226,17 @@ A machine learning project focused on predicting medical insurance costs using d
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AayushNeupane-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=AayushNeupane-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     height="180"
     alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AayushNeupane-dot&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushNeupane-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
     alt="Top Languages"
-  />
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AayushNeupane-dot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-    alt="GitHub Trophies"
   />
 </p>
 
@@ -284,6 +269,7 @@ A machine learning project focused on predicting medical insurance costs using d
 # 🤝 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/aayush-neupane-9ab485375/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -296,15 +282,19 @@ A machine learning project focused on predicting medical insurance costs using d
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="mailto:aayushneupane822email@gmail.com">
+  <a href="mailto:[aayushneupane822email@gmail.com](mailto:aayushneupane822email@gmail.com)">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Developer Quote"
+  />
 </p>
 
 ---
